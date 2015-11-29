@@ -8,16 +8,16 @@
     </Executeables>
     <Settings>
       <ProfileSetting>
+        <SettingID>5912412</SettingID>
+        <SettingValue>2525368439</SettingValue>
+      </ProfileSetting>
+      <ProfileSetting>
         <SettingID>8102046</SettingID>
-        <SettingValue>1</SettingValue>
+        <SettingValue>4</SettingValue>
       </ProfileSetting>
       <ProfileSetting>
         <SettingID>11041231</SettingID>
         <SettingValue>845218372</SettingValue>
-      </ProfileSetting>
-      <ProfileSetting>
-        <SettingID>270198627</SettingID>
-        <SettingValue>1</SettingValue>
       </ProfileSetting>
       <ProfileSetting>
         <SettingID>274197361</SettingID>
@@ -25,7 +25,7 @@
       </ProfileSetting>
       <ProfileSetting>
         <SettingID>277041134</SettingID>
-        <SettingValue>4026531898</SettingValue>
+        <SettingValue>0</SettingValue>
       </ProfileSetting>
       <ProfileSetting>
         <SettingID>537586684</SettingID>
