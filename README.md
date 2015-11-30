@@ -26,16 +26,25 @@ Do not modify iFPSClamp. Modifying iFPSClamp causes the game to slow down when F
 iPresentInterval=0
 ```
 
-4. Open NVIDIA Inspector to the "Fallot 4" profile.
-5. Find the section: "Sync and Refresh"
-6. Set these values:
+1. Open NVIDIA Inspector to the "Fallot 4" profile.
+2. Find the section: "Sync and Refresh"
+3. Set these values:
 
 ```
-Frame Rate Limiter: 58, 59, or 60 fps
-Maximum pre-rendered frames: 1
+Frame Rate Limiter: Off
+Maximum pre-rendered frames: 4
 Triple buffering: On
-Vertical Sync Smooth AFR behavior: On
+Vertical Sync Smooth AFR behavior: Off
 Vertical Sync: 1/2 Refresh Rate (for 120Hz monitors)
+```
+
+1. Open C:\Program Files (x86)\Steam\SteamApps\common\Fallout 4\enblocal.ini.
+2. Find the section: "Limiter"
+3. Set these values:
+
+```
+EnableFPSLimit=true
+FPSLimit=59.900002
 ```
 
 ## Change the Field of View
